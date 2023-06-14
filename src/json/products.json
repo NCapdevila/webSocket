@@ -1,0 +1,24 @@
+[
+	{
+		"id": 1,
+		"title": "silla",
+		"description": "KZ ZST PRO",
+		"price": 14000,
+		"thumbnails": "ruta de las imagenes",
+		"code": 5313,
+		"stock": 5,
+		"category": "objetos",
+		"status": true
+	},
+	{
+		"id": 2,
+		"title": "silla",
+		"description": "asd",
+		"price": 1,
+		"thumbnails": [],
+		"code": 3,
+		"stock": 1,
+		"category": "asd",
+		"status": true
+	}
+]
